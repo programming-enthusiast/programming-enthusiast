@@ -9,4 +9,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programming-enthusiast)](https://github.com/anuraghazra/github-readme-stats)
 
-![Code Dragon's github stats](https://github-readme-stats.vercel.app/api?username=programming-enthusiast&show_icons=true&theme=vue)
